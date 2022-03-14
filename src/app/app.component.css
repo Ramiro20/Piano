@@ -1,0 +1,28 @@
+.list-group-item{
+  background-color: #f1f9fb;
+  border-top: 1px solid #0091b5;
+
+}
+
+.row{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.negras{
+    height: 80px;
+    height: 20vh;
+    margin-top: 15px;
+    position: relative; top: -290px; left: 85px;
+}
+
+.blancas{
+    height: 80px;
+    height: 40vh;
+    margin-top: 15px;
+}
+
+a:hover {
+  background-color: #E74C3C;
+}
